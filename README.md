@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on
 
 -->
-- 👯 I’m looking to collaborate on Open Source Software/Hardware.
-- 😄 Pronouns: Him/His
+- I’m looking to collaborate on Open Source Software/Hardware.
+- Pronouns: Him/His
 
 
 
