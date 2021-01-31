@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 -->
 - I’m looking to collaborate on Open Source Software/Hardware projects.
 - Pronouns: Him/His
-- I :heart: using GNU/Linux and KDE.
+- I :heart: using GNU/Linux and KDE for my daily development work because they are Free and Open Source softwares. The performance is great.
+- I like getting stuff done from the Linux terminal. My favorite terminal emulator is [Konsole](https://konsole.kde.org/). My favorite text editor is [Kate](https://kate-editor.org/).
 - Online profiles: 
 
 <a href="https://stackexchange.com/users/17017739/shashank-v-m"><img src="https://stackexchange.com/users/flair/17017739.png" width="208" height="58" alt="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
