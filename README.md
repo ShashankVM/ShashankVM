@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - I’m looking to collaborate on Open Source Software/Hardware projects.
 - Pronouns: Him/His
-- I :heart: Linux, RISC-V and Open Source.
+- I :heart: GNU/Linux, RISC-V and Open Source.
 - Online profiles: 
 
 <a href="https://stackexchange.com/users/17017739/shashank-v-m"><img src="https://stackexchange.com/users/flair/17017739.png" width="208" height="58" alt="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
