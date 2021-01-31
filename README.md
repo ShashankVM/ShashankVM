@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - I’m looking to collaborate on Open Source Software/Hardware projects.
 - Pronouns: Him/His
-- I :heart: using GNU/Linux and KDE for my daily development work because they are Free and Open Source softwares that have great performance and the user interface is awesome.
+- I :heart: using GNU/Linux and KDE for my daily development work because they have great performance and the user interface is awesome. 
 - I like getting stuff done from the Linux terminal. My favorite terminal emulator is [Konsole](https://konsole.kde.org/). My favorite text editor is [Kate](https://kate-editor.org/).
 - You can find me on: 
 
