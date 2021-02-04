@@ -1,4 +1,4 @@
-### Hi👋, I am Shashank.
+### Hi 👋, I am Shashank.
 
 <!--
 **ShashankVM/ShashankVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
