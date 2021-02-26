@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Pronouns: Him/His 
 - My favorite IDE is [KDevelop](https://www.kdevelop.org/). My favorite Linux terminal emulator is [Konsole](https://konsole.kde.org/). My favorite text editor is [Kate](https://kate-editor.org/). 
 - Contact me on: https://www.youracclaim.com/users/shashank-v-m
-- I might be found on: https://electronics.stackexchange.com/users/238188/shashank-v-m?tab=profile and https://cs.stackexchange.com/users/115941/shashank-v-m?tab=profile
+- I might be found on: [Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/users/238188/shashank-v-m?tab=profile) and [Computer Science Stack Exchange](https://cs.stackexchange.com/users/115941/shashank-v-m?tab=profile)
 
 
 
