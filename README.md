@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on
 
 -->
-- I’m always open to collaborate on Open Source Software/Hardware projects.
+- I’m always open to collaborate on Free and Open Source Software/Hardware projects.
 - Pronouns: Him/His 
 - My Developer Story on Stack Overflow: https://stackoverflow.com/story/shashankmathew
 - Contact me on my Acclaim profile: https://www.youracclaim.com/users/shashank-v-m/badges
