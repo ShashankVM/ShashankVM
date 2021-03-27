@@ -1,4 +1,4 @@
-### Hi 👋, I am Shashank, a digital design and verification enthusiast.
+### Hi 👋, I am Shashank, a digital hardware design and computer vision enthusiast.
 
 <!--
 **ShashankVM/ShashankVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
