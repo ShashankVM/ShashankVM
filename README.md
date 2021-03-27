@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 -->
 - I am open to collaborate on Free and Open Source Software/Hardware projects.
 - Pronouns: Him/His 
-- <a href="https://stackexchange.com/users/17017739/shashank-v-m"><img src="https://stackexchange.com/users/flair/17017739.png" width="208" height="58" alt="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> | [Developer Story](https://stackoverflow.com/story/shashankmathew) | [Acclaim profile](https://www.youracclaim.com/users/shashank-v-m/badges)
+- [Stack Overflow Developer Story](https://stackoverflow.com/story/shashankmathew) | [Acclaim profile](https://www.youracclaim.com/users/shashank-v-m/badges)
 
 
