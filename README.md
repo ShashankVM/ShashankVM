@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 -->
 - I am open to collaborate on Free and Open Source Software/Hardware projects.
 - Pronouns: Him/His 
-- [Stack Overflow Developer Story](https://stackoverflow.com/story/shashankmathew) | [Acclaim profile](https://www.youracclaim.com/users/shashank-v-m/badges)
+- [Acclaim profile](https://www.youracclaim.com/users/shashank-v-m/badges)
 
 
