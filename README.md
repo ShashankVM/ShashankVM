@@ -5,4 +5,4 @@
 <a href="https://stackexchange.com/users/17017739/shashank-v-m"><img src="https://stackexchange.com/users/flair/17017739.png" width="208" height="58" alt="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 E-learning profiles:
-- [DataCamp profile](https://www.datacamp.com/profile/shashankmathew)
+- [DataCamp profile](https://www.datacamp.com/profile/shashankmathew) | [Coursera Profile](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
