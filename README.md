@@ -11,4 +11,4 @@
 - [Credly.com profile](https://www.credly.com/users/shashank-v-m/) 
 - [Accredible.com profile](https://v2.credential.net/profile/shashankvm133/wallet) 
 
-![certificate_data_structures](https://stepik.org/certificate/150d42244fec1ddc9c8d773d30a06c49bcf3968b.png)
+![certificate_data-structures](https://stepik.org/certificate/150d42244fec1ddc9c8d773d30a06c49bcf3968b.png)
