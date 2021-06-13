@@ -10,4 +10,5 @@
 - [Coursera profile](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
 - [Credly.com profile](https://www.credly.com/users/shashank-v-m/) 
 - [Accredible.com profile](https://v2.credential.net/profile/shashankvm133/wallet) 
-- [Stepik Profile](https://stepik.org/users/190150713)
+
+![certificate_data_structures](https://stepik.org/certificate/150d42244fec1ddc9c8d773d30a06c49bcf3968b.png)
