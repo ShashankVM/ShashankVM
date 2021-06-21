@@ -10,4 +10,3 @@
 - [DataCamp profile](https://www.datacamp.com/profile/shashankmathew) 
 - [Coursera profile](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
 
-![certificate_data_structures](https://user-images.githubusercontent.com/58113556/121797431-c4195d00-cc3d-11eb-8c82-c0702c65407f.png)
