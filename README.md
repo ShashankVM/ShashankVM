@@ -9,4 +9,4 @@
 - [Accredible.com profile](https://v2.credential.net/profile/shashankvm133/wallet) 
 - [DataCamp profile](https://www.datacamp.com/profile/shashankmathew) 
 - [Coursera profile](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
-
+- [LinkedIn profile](https://www.linkedin.com/in/shashankmathew/)
