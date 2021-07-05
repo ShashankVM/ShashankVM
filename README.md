@@ -5,9 +5,6 @@ Pronouns: He/Him/His
 - [Automatic Image Binarization using a modified Pulse-Coupled Neural Network](https://github.com/ShashankVM/pcnn-algorithm-demo)
 
 # Online Profiles
-- [Credly.com profile](https://www.credly.com/users/shashank-v-m/) 
-- [Accredible.com profile](https://v2.credential.net/profile/shashankvm133/wallet) 
-- [DataCamp profile](https://www.datacamp.com/profile/shashankmathew) 
-- [Coursera profile](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
+- [Credly](https://www.credly.com/users/shashank-v-m/) | [Accredible](https://v2.credential.net/profile/shashankvm133/wallet) | [DataCamp](https://www.datacamp.com/profile/shashankmathew) | [Coursera](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
 - [LinkedIn profile](https://www.linkedin.com/in/shashankmathew/)
 - <a href="https://stackexchange.com/users/17017739/shashank-v-m"><img src="https://stackexchange.com/users/flair/17017739.png" width="208" height="58" alt="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
