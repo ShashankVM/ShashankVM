@@ -6,4 +6,4 @@ Pronouns: He/Him/His
 
 # Online Profiles
 - [Credly](https://www.credly.com/users/shashank-v-m/) | [Accredible](https://v2.credential.net/profile/shashankvm133/wallet) | [DataCamp](https://www.datacamp.com/profile/shashankmathew) | [Coursera](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1)
-- <a href="https://stackexchange.com/users/17017739/shashank-v-m"><img src="https://stackexchange.com/users/flair/17017739.png" width="208" height="58" alt="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shashank V M on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>  [LinkedIn](https://www.linkedin.com/in/shashankmathew/) 
+- [LinkedIn](https://www.linkedin.com/in/shashankmathew/) 
