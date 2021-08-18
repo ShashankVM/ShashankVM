@@ -5,5 +5,5 @@ https://stackoverflow.com/story/shashankmathew
 # Online Profiles
 - [Credly](https://www.credly.com/users/shashank-v-m/) 
 - [Accredible](https://v2.credential.net/profile/shashankvm133/wallet) 
-- [Coursera](https://www.coursera.org/user/9b0953303b5aa52680f26d29abc32ac1) 
+
 
