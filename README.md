@@ -1,4 +1,4 @@
-**Hardware Engineer** at [Qualcomm Technologies, Inc.](https://www.qualcomm.com/)  
+**Hardware Engineer** at [Qualcomm](https://www.qualcomm.com/)  
 ----
 ### Credentials 
 - https://www.credential.net/profile/shashankvm133/wallet  
