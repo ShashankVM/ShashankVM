@@ -6,15 +6,15 @@ Thank you for visiting my personal GitHub page.
 
 Facts:
 ------
-Height: 5' 5''
-Build: Slim
-Age: 24
-Citizenship: India
-Sex: Male
-Sexual orientation: Heterosexual
-Religious affiliation: Null
-Belief: Atheist
-Relationship status: Single, open to a romantic, monogamous relationship with a female atheist.
+- Height: 5' 5''
+- Build: Slim
+- Age: 24
+- Citizenship: India
+- Sex: Male
+- Sexual orientation: Heterosexual
+- Religious affiliation: Null
+- Belief: Atheist
+- Relationship status: Single, open to a romantic, monogamous relationship with a female atheist.
  
 ----
 ### Credentials 
