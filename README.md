@@ -13,7 +13,6 @@ Facts:
 - Sex: Male
 - Sexual orientation: Heterosexual
 - Religious affiliation: Null
-- Belief: Atheist
 - Relationship status: Single, open to a romantic, monogamous relationship with a female atheist.
  
 ----
