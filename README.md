@@ -10,10 +10,6 @@ Facts:
 - Build: Slim
 - Age: 24
 - Citizenship: India
-- Sex: Male
-- Sexual orientation: Heterosexual
-- Religious affiliation: Null
-- Relationship status: Single. Open to a romantic, monogamous relationship with a heterosexual female atheist.
  
 ----
 ### Credentials 
