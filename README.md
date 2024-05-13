@@ -6,11 +6,12 @@ Thank you for visiting my personal GitHub page.
 
 Facts:
 ------
-- Height: 5' 5''
+- Height: 166 cm
 - Build: Slim
 - Age: 24
 - Citizenship: India
- 
+- Religious affiliation: None
+- Relationship status: Single. I'm open to dating a woman aged 21-26.   
 ----
 ### Credentials 
 - https://www.credential.net/profile/shashankvm133/wallet  
