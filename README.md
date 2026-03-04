@@ -1,4 +1,4 @@
-**Hardware engineer** at [Qualcomm](https://www.qualcomm.com/) 
+**Hardware engineer** 
 ----
 ### Credentials 
 - https://www.credly.com/users/shashank-v-m.64b797c0 
