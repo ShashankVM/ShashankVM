@@ -1,4 +1,4 @@
-**Computer engineer** 
+**Electronics engineer** 
 ----
 ### Credentials 
 - https://www.credly.com/users/shashank-v-m.64b797c0 
